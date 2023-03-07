@@ -69,3 +69,5 @@ The Team :
 3. [Kazi Reyazul Hasan](https://github.com/kreyazulh)
 4. [Wasif Jalal](https://github.com/WJGalib)
 5. [Mubasshira Musarrat](https://github.com/MubasshiraMusarrat)
+
+**Special thanks to [Wasif Jalal](https://github.com/WJGalib) for organising this enitre project repository**
