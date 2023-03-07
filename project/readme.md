@@ -70,4 +70,4 @@ The Team :
 4. [Wasif Jalal](https://github.com/WJGalib)
 5. [Mubasshira Musarrat](https://github.com/MubasshiraMusarrat)
 
-**Special thanks to [Wasif Jalal](https://github.com/WJGalib) for organising this enitre project repository**
+**Special thanks to [Wasif Jalal](https://github.com/WJGalib) for organising this enitre project repository and his dedication towards this project.**
