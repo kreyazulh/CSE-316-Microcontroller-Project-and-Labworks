@@ -64,9 +64,9 @@ The track elements (start/middle/end line and power-down pickups):
 ## Link
 Check out the [demonstration video](https://www.youtube.com/watch?v=mE63gsLWX4w).
 
-##Award
+## Award
 
-We have been awarded the best project of CSE-316 (July 2022), check [here].(https://docs.google.com/presentation/d/1rVRFsz9oOmoPmgQUyQ30cugzrvUNgRiTD_YXTi5Kx9s/edit#slide=id.g1d1677fce66_0_9).
+We have been awarded the best project of CSE-316 (July 2022), check [here](https://docs.google.com/presentation/d/1rVRFsz9oOmoPmgQUyQ30cugzrvUNgRiTD_YXTi5Kx9s/edit#slide=id.g1d1677fce66_0_9).
 
 ## Contributions
 The Team :
